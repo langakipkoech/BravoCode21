@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BravoCode21
+- 👋 Hi, I’m @ElishaLangat
 - 👀 I’m interested in AI, ML and Android. 
 - 🌱 I’m currently learning kotlin and AWS
 - 💞️ I’m looking to collaborate on various projects
